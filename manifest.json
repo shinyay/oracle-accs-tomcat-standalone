@@ -1,0 +1,12 @@
+{
+    "runtime":{
+        "majorVersion": "8"
+    },
+    "command": "sh bin/catalina.sh run",
+    "release": {
+        "build": "1.0-SNAPSHOT",
+        "commit": "On-P to ACCS",
+        "version": "20161219"
+    },
+    "notes": "Stand-alone Tomcat Test"
+}
