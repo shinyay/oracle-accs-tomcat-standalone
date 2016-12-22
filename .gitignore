@@ -1,1 +1,3 @@
-maven/employees-app/.idea/
+maven/*/.idea/
+maven/*/target/
+apache-tomcat-*/
